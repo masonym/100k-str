@@ -6,7 +6,7 @@ WIP creating a Health and Fitness web application using MongoDB, Express, React,
 ## Intended features:
 
 * Workout tracking (sets, reps, loads)
-* * Support for dropsets, supersets, myoreps
+  * Support for dropsets, supersets, myoreps
   * Diary for note-taking?
   * Automatic program regulation (progressive overload and deloading)
 * Food logging (calories and macros)
