@@ -20,3 +20,4 @@ WIP creating a Health and Fitness web application using MongoDB, Express, React,
 - [ ] Analytics
 - [ ] Create workout routines
 - [ ] Plan mesocycles
+- [ ] Ability for site to work offline once cached
