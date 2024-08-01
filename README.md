@@ -13,3 +13,10 @@ WIP creating a Health and Fitness web application using MongoDB, Express, React,
   * Maybe a barcode scanner? 
   * Database of food
 * Weight tracking (integrated with food logging to calculate TDEE)
+
+
+- [ ] User Authentication
+- [ ] Light/dark themes
+- [ ] Analytics
+- [ ] Create workout routines
+- [ ] Plan mesocycles
